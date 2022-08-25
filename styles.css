@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+.post {
+    background-color: white;
+    align-content: center;
+    width: 50%;
+    height: 50%;
+}
+#bookmark{
+    float: right;
+    margin-right: 10px;
+}
